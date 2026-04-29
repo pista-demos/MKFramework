@@ -82,3 +82,7 @@ gitee: <https://gitee.com/muzzik/MKFramework>
 ## 联系作者
 
 顶部菜单：`扩展/MKFramework/帮助`
+
+## 版本
+
+[VERSION.md](./VERSION.md)
